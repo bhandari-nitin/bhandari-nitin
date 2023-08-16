@@ -1,16 +1,18 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4999&pause=999&color=34C007&multiline=true&repeat=false&width=435&lines=%3E+Hi%2C+I'm+Nitin!)](https://git.io/typing-svg)
 
-<!--
-**bhandari-nitin/bhandari-nitin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+~whatami@upto:~$ @current Educator, Data Science, helping professoinals learn and lauch their career into AI field
+~whatwasig@upto:~$ Sr. AI Soultions Engineer, Conversational AI
+~whatami@learning:~$ Learning all things MLOps
+```
 
-Here are some ideas to get you started:
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></div></a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <br> <a href="https://www.linkedin.com/in/bhandarin/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="20" width="20" /></a>
+</p>
+
