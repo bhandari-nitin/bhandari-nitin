@@ -2,7 +2,7 @@
 
 ```
 ~whatami@upto:~$ @current Educator, Data Science, helping professoinals learn and lauch their career into AI field
-~whatwasig@upto:~$ Sr. AI Soultions Engineer, Conversational AI
+~whatwasig@upto:~$ AI/ML Soultions (Conversational AI), Director
 ~whatami@learning:~$ Learning all things MLOps
 ```
 
